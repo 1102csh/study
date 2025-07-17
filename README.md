@@ -5,7 +5,7 @@ for study with naiery
 
 #### 1. 다음 이미지를 보고 문제를 해결하시오.
 ###### (1) 다음 이미지를 보고 사용된 교체 기법 알고리즘을 빈칸에 작성하시오.
-<img src=./images/LRU.png width="500">
+<img src=./Images/LRU.png width="500">
 <details>
     <summary>정답 보기</summary>
 
