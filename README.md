@@ -52,7 +52,7 @@ for study with naiery
 </details>
 
 #### 4. 다음 테이블에 대하여 주어진 요구사항을 만족하는 올바른 쿼리문을 작성하시오.
-<b>sales</b> 테이블
+<b>sales</b> 테이블 <br>
 <img src="./Images/query.png" width="500"><br>
 
 ###### 요구사항 :
