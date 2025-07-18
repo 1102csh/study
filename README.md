@@ -1,5 +1,5 @@
 # study
-for study with naiery
+for study with @Naiery0
 
 ### 정보 처리 기사 실기
 
