@@ -164,3 +164,79 @@ for study with naiery
     - 30
     - 네트워크 주소 : 192.168.10.0, 브로드캐스트 주소 : 192.168.10.31, 할당 가능한 호스트 범위 : 192.168.10.1 ~ 192.168.10.30
 </details>
+
+#### 12. 다음 설명이 의미하는 정보 보안 침해 공격 기법을 작성하시오.
+
+###### QR코드를 통해 악성 앱 다운을 유도하거나 설치하도록 하게 하는 기법
+
+<details>
+    <summary>정답 보기</summary>
+
+    - Qshing (큐싱)
+</details>
+
+#### 13. 다음 중 DDL 명령어가 아닌 것은?
+``` ⓐ TRUNCATE ⓑ DROP ⓒ ALTER ⓓ CREATE ⓔ REVOKE```
+
+<details>
+    <summary>정답 보기</summary>
+
+    - ⓔ REVOKE 
+</details>
+
+#### 14. CREATE TABLE 명령어를 사용하여 테이블을 만드려고 한다. 다음과 같은 조건을 만족하는 테이블을 생성하려고 할 때, 빈칸에 알맞은 명령어를 작성하시오.
+
+``` 사원 테이블은 사번, 부서번호의 컬럼을 갖는다. 두 컬럼은 모두 VARCHAR(10)의 데이터 타입을 갖고 있으며 NULL이 들어갈 수 없다.```
+
+###### CREATE TABLE 사원(사번 VARCHAR(10) (  ?  ), 부서번호 VARCHAR(10) (  ?  ));
+
+#### 15. 다음은 DROP TABLE 명령어의 옵션에 대한 설명이다. 빈칸에 알맞은 옵션을 작성하시오.
+
+###### (1) (     ) : 참조하는 테이블까지 연쇄적으로 제거하는 옵션
+###### (2) (     ) : 다른 테이블이 삭제할 테이블을 참조 중이면 제거하지 않는 옵션
+
+<details>
+    <summary>정답 보기</summary>
+
+    - (1) CASCADE
+    - (2) RESTRICT
+</details>
+
+#### 16. SELECT 명령어를 사용하여 데이터를 조회할 때 "중복된 속성이 조회될 경우 그 중 한 개만 검색"이라는 의미를 가진 옵션은 무엇인가?
+
+<details>
+    <summary>정답 보기</summary>
+
+    - DISTINCT
+</details>
+
+#### 17. 학생 테이블에 주소 속성을 추가하는 SQL 문을 작성하시오.
+
+###### (  1  ) TABLE 학생 (  2  ) wnth VARCHAR(20);
+
+<details>
+    <summary>정답 보기</summary>
+
+    - (1) ALTER
+    - (2) ADD
+</details>
+
+#### 18. 개발환경 구성을 위한 도구는 크게 4가지로 분류할 수 있다. 다음 각 도구들의 예시를 보고 어떤 도구를 의미하는 것 인지 보기에서 찾아 작성하시오.
+
+``` ⓐ 구현 도구 ⓑ 테스트 도구 ⓒ 형상관리 도구 ⓓ 빌드 도구 ```
+
+###### (1) : xUnit, PMD, Findbugs, Cppcheck,SonarQube
+###### (2) : Ant, Maven, Gradle
+###### (3) : Eclipse, IntelliJ, Spring Tool Suite, Visual Studio
+###### (4) : CVS, Subversion, Git
+
+<details>
+    <summary>정답 보기</summary>
+
+    - (1) ⓑ
+    - (2) ⓓ
+    - (3) ⓐ
+    - (4) ⓒ
+</details>
+
+
